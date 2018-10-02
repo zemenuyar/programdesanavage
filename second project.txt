@@ -1,0 +1,10 @@
+2. Add three numbers and print the total
+prompt user for number 2
+save #2
+prompt user for number 6
+save #6
+prompt user for number 4
+save #4
+add num 2 + num 6 + num 4
+put result in total 
+print total

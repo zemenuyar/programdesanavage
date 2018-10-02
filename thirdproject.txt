@@ -1,0 +1,13 @@
+3. Find the average score
+DEFINE userInput as double
+DEFINE total as double 
+DEFINE average as double 
+DECLARE counter = 1
+while ( counter < 10)
+	PROMPT "Enter a number"
+	total += userInput;
+	counter = counter + 1
+END WHILE
+average = total / 10;
+PRINT average  
+

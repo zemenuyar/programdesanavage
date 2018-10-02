@@ -1,0 +1,17 @@
+1. Create a basic application
+prompt user for number x 
+save #x
+prompt user number 5
+save #5 
+add num #x and num 5
+sum num #x and num 5
+put result in total 
+prompt user for number 2
+save #2 
+multiplay the sum of num #x and num 5 * num 2
+result in total 
+prompt user for number 7
+save #7
+substract num 7 from the total 
+put result in total
+print total
