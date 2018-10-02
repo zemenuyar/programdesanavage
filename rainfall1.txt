@@ -1,0 +1,16 @@
+4. How much water runs off a roof in a rain storm?
+To calculate the runoff from any given rainfall
+
+difine the length and the wedith of the roof
+prompt for wedith 
+convert wedith to inches 
+prompt for length to inches 
+convert length to inches
+difine totalprint as number 
+totalprint = length * wedith 
+prompt for rainfall in inches
+difin reanfall as number 
+rainfall = length inches * wedith in inches 
+difin total rainfall
+total rainfall/231
+print total rainfall
